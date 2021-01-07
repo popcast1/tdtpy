@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo"", SNT
+#EXTINF:-1 tvg-logo"", SNT SD
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8
