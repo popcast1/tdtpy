@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo"", SNT SD
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo"https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png", LIBERTADORES
+http://uruguayiptv.com:25461/leandro1/leandro123/80316
