@@ -25,7 +25,7 @@ http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4.m3u8
 #EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_191923.png", PARAVISION
 http://edge02-cde-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3fae4e_bf58b7726a1e4f4992cb3fe7a0bd7e50~mv2.png/v1/fill/w_2626,h_1206,al_c/3fae4e_bf58b7726a1e4f4992cb3fe7a0bd7e50~mv2.png", PRO TV
-http://globalentertainmentec.xyz:8000/Fiocel03/RABQSphUDg/96267
+http://globalentertainmentec.xyz:8000/Fiocel13/MQCE8tjpyV/96267
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png", GEN TV
 https://tigocloudgen.desdeparaguay.net/gentv/gentv_py_alta/chunklist_w1881619869.m3u8
 #EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_191728.png", HEI TV
