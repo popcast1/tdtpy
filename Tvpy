@@ -50,6 +50,8 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://159.203.148.226/live/farra_mid.m3u8
 #EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/logo-large@2x.png", VENUS MEDIA
 http://rds3.desdeparaguay.net:1935/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="", FENIX TV
+https://59ce1298bfb98.streamlock.net/fenixtv/fenixtv/chunklist_w1262839909.m3u8
 #EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_192356.png",CN 24/7
 https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w677387443_b1300000_slen.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png", FRANCE 24 ESPAÑOL
