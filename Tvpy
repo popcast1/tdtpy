@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/2pbnfAdwCsY2Yy5lfFNWoV/36482189384dba2772603d1f4f887bca/ic-logo-one-tv?q=70", TIGO ONETV
 https://go.tigo.com.py/zndsk/videos/onetv/onetv_info.mp4
-#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/logo_snt.png", SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyNjU0NjkxLCJzZXNzaW9uIjoiMTgxLjEyMi4xNzIuMTg0Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjIuMTcyLjE4NCJdfSwic2lnbmF0dXJlIjoiYWE3MGIwMTc1ZTM5NDIwZmViNmZhYThiNmM1MzI4ZDQ1N2NjMDcxZiJ9
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/logo_snt.png", SNT SD
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyOTE3Nzc1LCJzZXNzaW9uIjoiMTgxLjEyMi4xNzIuMTg0Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjIuMTcyLjE4NCJdfSwic2lnbmF0dXJlIjoiMzZlN2U2MTJlZmIxZGEzYmE1YmI4MDk5MGZmZTIwYjg1YWRkNTFhNSJ9
