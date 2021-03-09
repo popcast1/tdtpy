@@ -29,7 +29,7 @@ http://edge02-cde-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC
 #EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/1606172919895.png", UNICANAL HD
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-logo="https://www.snt.com.py/wp-content/themes/albavision-theme/img/logo.png", SNT HD
-http://echootv.tv:2086/brazil2_YpKsE0/ArSlUw0K/154821
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MzM2NTkzLCJzZXNzaW9uIjoiMTgxLjEyMi4xNzIuMTg0Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjIuMTcyLjE4NCJdfSwic2lnbmF0dXJlIjoiZGRiY2RkYWU4Y2IzM2I2YjdjZTJlZWEzYjFlNzUyMTUzNWE3MTgxMSJ9
 #EXTINF:-1 tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/img/logo.png", C9N HD
 http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/g3le2wuvu7db/2JLFjs5MU9sbpFiHUdOx2y/83a2caed9ad6e98eb801fcf54c348303/N__andutiTV_2x.png", ÑANDUTI TV
