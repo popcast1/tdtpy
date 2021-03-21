@@ -55,7 +55,7 @@ http://www.globaltvplusiptv.club/streaming/globalplayerinternos.php?2619
 #EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/Sur_TV_Itapua_2013.png", SUR TV
 http://cdn.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4.m3u8
 #EXTINF:-1 tvg-logo="https://estacion40.com.py/wp-content/uploads/2019/09/logo-e40_opt.png", E40 TV
-https://tigocloud.desdeparaguay.net/e40tv/e40tv_py_med/chunklist_w245298666.m3u8
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png", MiTV OBLIGADO HD
 http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w933911547.m3u8
 #EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201129_105609.png", RCC TV CHAQUEÑA
